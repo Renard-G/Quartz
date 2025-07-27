@@ -1,0 +1,66 @@
+---
+{"publish":true,"created":"2025-03-21T16:10:28.000-04:00","modified":"2025-03-21T16:10:28.000-04:00","cssclasses":""}
+---
+
+
+### **[[Personnages/Aventuriers/Lutilda Graniteheart]]**
+- [[Grimoires/Objets Magiques/Cloak of Elvenkind\|Cloak of Elvenkind]]
+- [[Grimoires/Objets Magiques/Collier de Griselda Barlow\|Collier de Griselda Barlow]]
+- [[Grimoires/Codex Tenebris/Papiers d'Ombrescript\|Papiers d'Ombrescript]]
+
+### **[[Personnages/Aventuriers/Magnus Borgir]]**
+- [[Grimoires/Objets Magiques/Stone of Good Luck\|Stone of Good Luck]]
+- [[Grimoires/Objets Magiques/Tissu d'Alchimiste\|Tissu d'Alchimiste]]
+- [[Grimoires/Objets Magiques/Hache de Gubrash\|Hache de Gubrash]]
+- [[Grimoires/Objets Magiques/Cloak of Elvenkind\|Cloak of Elvenkind]]
+- [[Grimoires/Objets Magiques/Alchemist's Supplies\|Alchemist's Supplies]]
+- [[Grimoires/Codex Tenebris/Papiers d'Ombrescript\|Papiers d'Ombrescript]]
+- [[Grimoires/Codex Tenebris/Fléau Vertébral\|Fléau Vertébral]]
+
+### **[[Personnages/Aventuriers/Nessa Vendove]]**
+- [[Grimoires/Objets Magiques/Onguent Réparateur\|Onguent Réparateur]]
+- [[Grimoires/Objets Magiques/Deck of Illusions\|Deck of Illusions]]
+- [[Grimoires/Objets Magiques/Cloak of Elvenkind\|Cloak of Elvenkind]]
+- [[Grimoires/Objets Magiques/Cape du Sorcier Orc\|Cape du Sorcier Orc]]
+- [[Grimoires/Codex Tenebris/Page de L'Enchanteresse\|Page de L'Enchanteresse]]
+- [[Grimoires/Codex Tenebris/Papiers d'Ombrescript\|Papiers d'Ombrescript]]
+- [[Grimoires/Codex Tenebris/Collier de L'Enchanteresse\|Collier de L'Enchanteresse]]
+- [[Grimoires/Codex Tenebris/Collier d'Aria Vendove\|Collier d'Aria Vendove]]
+
+
+#### Livres
+- [[Encyclopédie/Bibliothèque/Mémoires de Tanamera\|Mémoires de Tanamera]]
+- [[Encyclopédie/Bibliothèque/Les Merveilles de Phandalin\|Les Merveilles de Phandalin]]
+
+
+## Propriété
+- **[[Lieux/Phandalin/Bâtiments/Maison des Aventuriers]]**
+
+# Butin
+
+| §                                 | Journal                                                                                                                                                                                                                                                                                  |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Anthologie/Sessions/19\|19]] | **[Butin]** [[Lieux/Leilon/Quartiers/L'Enclume/Vert Bouton]] \| **Deux pages** du cahier de [[Célestin d'Orvance]].                                                                                                                                                                                                       |
+| [[Anthologie/Sessions/17\|17]] | **[Butin]** [[Lieux/Leilon/Quartiers/Pierres Blanches/Résidence de Griselda Barlow]] **\|** Un **[[Personnages/Famille Barlow#Tableau des filles Barlow\|tableau]]**, trois **[[Grimoires/Codex Tenebris/Papiers d'Ombrescript\|papiers "vides"]]**, un **[[Grimoires/Objets Magiques/Collier de Griselda Barlow]]**, une bourse de cuire contenant une poudre et un **[[Grimoires/Objets Magiques/Deck of Illusions]]**. |
+| [[Anthologie/Sessions/16\|16]] | **[Butin]** *[[Lieux/Leilon/Quartiers/Pierres Blanches/Manoir Lester#Arène des combats\|Arène des combats]]* **\|** [[Personnages/Aventuriers/Magnus Borgir\|Magnus]] a reçu **55** *gp* de [[Personnages/Rolomas Lester]].                                                                                                                                          |
+| [[Anthologie/Sessions/16\|16]] | **[Butin]** *[[Lieux/Leilon/Quartiers/Innbourg/Tour du Mage]]* **\|** [[Personnages/Aventuriers/Nessa Vendove\|Nessa]] a reçu le livre des **[[Encyclopédie/Bibliothèque/Mémoires de Tanamera]]**.                                                                                                                                                                         |
+| [[Anthologie/Sessions/15\|15]] | **[Butin]** *[[Lieux/Leilon/Quartiers/Innbourg/Plume du Dragon]]* **\|** [[Personnages/Aventuriers/Magnus Borgir\|Magnus]] a acheté quatre **[[Grimoires/Objets Magiques/Tissu d'Alchimiste\|Tissus d'Alchimiste]]** et un kit d'**[[Grimoires/Objets Magiques/Alchemist's Supplies]]**.                                                                                                             |
+| [[Anthologie/Sessions/03\|03]] | **[Butin]** *[[Lieux/Phandalin/Bâtiments/Stonehill Inn]]* **\|** La **clé neuve de [[Personnages/Elmar Barthens\|Balthazar Barthens]]**.                                                                                                                                                                                       |
+| [[Anthologie/Sessions/02\|02]] | **[Butin]** *[[Lieux/Phandalin/Bâtiments/Stonehill Inn]]* **\|** Le groupe reçoit une **carte de *[[Lieux/Leilon/Leilon]]***.                                                                                                                                                                                                   |
+| [[Anthologie/Sessions/01\|01]] | **[Butin]** *Shrine of Savras* **\|** Une **cloche en or massif** d'une valeur de **2,500** *gp*.                                                                                                                                                                                        |
+| [[Anthologie/Sessions/01\|01]] | **[Butin]** *[[Shrine of Luck]]* **\|** Mots laissés : "*[[Encyclopédie/Organisations/Zhentarim]]*". "*[[Personnages/L'Enchanteresse]] est ici.* "*Le serpent murmure, son venin et ton sang dévoilent ses secrets*".                                                                                                           |
+| [[Anthologie/Sessions/01\|01]] | **[Butin]** *[[Lieux/Phandalin/Bâtiments/Stonehill Inn]]* **\|** Deux **[[Grimoires/Codex Tenebris/Papiers d'Ombrescript]]** dans la chambre présumée de [[Personnages/Tibor Wester]].                                                                                                                                                                  |
+
+
+## Contexte
+
+| §                                 | Journal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Anthologie/Sessions/17\|17]] | **[Butin]** [[Lieux/Leilon/Quartiers/Pierres Blanches/Résidence de Griselda Barlow]] **\|** Le groupe entre dans la résidence et découvre un lieu rangé, mais légèrement poussiéreux. Dans le salon, ils trouvent un **[[Grimoires/Objets Magiques/Deck of Illusions]]** et un [[Grimoires/Codex Tenebris/Papiers d'Ombrescript\|papier "vide"]]. Une [[Lieux/Leilon/Quartiers/Pierres Blanches/Résidence de Griselda Barlow#Moulures\|moulure]] au plafond en forme de tête de loup entouré de deux hiboux attire leur attention.                                                                                                                                                                                                                                                                                       |
+| [[Anthologie/Sessions/17\|17]] | **[Butin]** [[Lieux/Leilon/Quartiers/Pierres Blanches/Résidence de Griselda Barlow]] **\|** Dans une chambre du 2e étage, le groupe trouve un placard secret en tournant la tête d'une statue de [[Personnages/Pelindar Filmarya]]. Dedans s'y trouve [[Personnages/Famille Barlow#Tableau des filles de Hela Barlow\|tableau]] et **un coffre**, que [[Personnages/Aventuriers/Nessa Vendove\|Nessa]] ouvre grâce au sort [[Grimoires/Codex Arcanum/Knock]]. L'ouverture du coffre déclenche la fermeture étanche de la résidence et un torrent d'eau jaillit de la moulure en forme de tête de loup dans le salon. Le **coffre** contient [[Lieux/Leilon/Quartiers/Pierres Blanches/Résidence de Griselda Barlow#Collier\|un collier]], deux autres [[Grimoires/Codex Tenebris/Papiers d'Ombrescript\|papiers "vides"]], et une bourse de cuir contenant une poudre. |
+| [[Anthologie/Sessions/16\|16]] | **[Butin]** [[Personnages/Adelard Caeldrin]] a donné aux aventuriers les **[[Encyclopédie/Bibliothèque/Mémoires de Tanamera]]** pour les aider dans leur quête vers *[[Dragon Barrow]]*.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| [[Anthologie/Sessions/16\|16]] | **[Butin]** [[Personnages/Rolomas Lester]] est fou de joie de la victoire de [[Personnages/Aventuriers/Magnus Borgir]] et lui offre **55** *gp* et le champagne pour ses efforts. Il restera en contact avec lui pour la suite.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| [[Anthologie/Sessions/15\|15]] | **[Butin]** [[Lieux/Leilon/Quartiers/Innbourg/Plume du Dragon]] **\|** [[Personnages/Kuori Gathakanathi]] a vendu quatre [[Grimoires/Objets Magiques/Tissu d'Alchimiste\|Tissus d'Alchimiste]] et des [[Grimoires/Objets Magiques/Alchemist's Supplies]] à [[Personnages/Aventuriers/Magnus Borgir]].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| [[Anthologie/Sessions/02\|02]] | **[Butin]** *[[Lieux/Phandalin/Bâtiments/Stonehill Inn]]* **\|** [[Personnages/Garomir Fenshinn]] donne au groupe une **carte de *[[Lieux/Leilon/Leilon]]***.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| [[Anthologie/Sessions/01\|01]] | **[Butin]** Sur la route pour le *Butterskull Ranch*, le groupe a pris la route du sud après les ruines de *Conyberry* pour se rendre à un monastère abandonné, occupé par des [[Grimoires/Bestiaire/Orc\|orcs]]. Sur place, [[Personnages/Aventuriers/Nessa Vendove]] a utilisé le [[Wand of Pyrotechnics]] pour attirer les [[Grimoires/Bestiaire/Orc\|orcs]] – et des [[Grimoires/Bestiaire/Ogre\|ogres]] – en dehors du bâtiment afin de faire diversion. Pendant ce temps, le reste du groupe a récupéré une cloche en or massif d'une valeur de **2,500** *gp*.                                                                                                                                                                                                     |
+

@@ -1,0 +1,46 @@
+---
+{"publish":true,"created":"2025-03-03T10:10:13.000-05:00","modified":"2025-03-03T10:10:13.000-05:00","cssclasses":""}
+---
+
+
+# '*Sancho*'
+
+(race::*Humain*)
+
+![[Source/Images de NPCs/Slither Fleming.png]]
+
+# Biographie
+
+Slither Fleming est un humain d’une cinquantaine d’années. Il est de taille moyenne. Il a un visage émacié, avec une barbe grisonnante et des cheveux mi-longs. Son corps est filiforme. Il a des yeux d’un bleu très pâle, froid et perçant.
+
+Slither Fleming est maintenant basé à *[[Lieux/Leilon/Leilon]]* et est chef d’un groupe nommé *[[Encyclopédie/Organisations/Fer de Lance]]*. Il souhaite étendre ses activités jusqu’à *[[Lieux/Phandalin/Phandalin]]*.
+
+Pour le trouver, il faut se rendre au *[[Lieux/Leilon/Quartiers/L'Enclume/Vert Bouton]]* et donner la bonne phrase au commis.
+
+Slither Fleming a rencontré Rohan Donquichotte dans une taverne d’une région rurale reculée des *Forgotten Realms* il y de nombreuses années.
+
+# Journal
+
+| §                                 | Journal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Anthologie/Sessions/13\|13]] | Après avoir été remis sur pieds, Cairn a apprécié que les aventuriers le laissent partir. Il est parti vers *Leilon* pour raconter les événements à [[Personnages/Slither Fleming\|'Sancho']].                                                                                                                                                                                                                                                                                                                                                                                          |
+| [[Anthologie/Sessions/06\|06]] | Slither a eu la surprise de recevoir la visite des aventuriers. Il leur a fait passer un interrogatoire tendu. Il sait que Rohan a disparu, fort probablement victime de [[Personnages/L'Enchanteresse]]. Même s’il ne fait pas confiance au trio, Slither a appris leur désintérêt envers Rohan et leur droiture idéologique. Il a également su que le [[Personnages/Harbin Wester\|maire]] cache [[Personnages/Tibor Wester]] dans le but de l’exfiltrer. Slither veut que [[Personnages/Cairn Veldrak]] s’occupe de l’exfiltration et demande aux aventuriers de faire pression sur le maire afin d’accepter ce service. |
+| [[Anthologie/Sessions/06\|06]] | Slither a fait exécuter des mains de [[Personnages/Aventuriers/Magnus Borgir]] le coursier qui a été à l’origine de cette faille dans son réseau. Il utilise cet acte pour retenir les services du groupe en les menaçant de les livrer aux autorités pour meurtre s’ils ne se plient pas à ses volontés.                                                                                                                                                                                                                                                                                           |
+| [[Anthologie/Sessions/06\|06]] | Slither a découpé au couteau une [[Personnages/Aventuriers/Lutilda Graniteheart#I.\|pierre précieuse]] dans la barbe de [[Personnages/Aventuriers/Lutilda Graniteheart]] lors de leur altercation.                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| [[Anthologie/Sessions/06\|06]] | [[Personnages/Slither Fleming]] a recommandé aux aventuriers de passer par les services de [[Personnages/Cairn Veldrak]] pour exfiltrer [[Personnages/Tibor Wester]].                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| [[Anthologie/Sessions/03\|03]] | Rohan Donquichotte s’est fait attaquer la nuit dans sa chambre de l’auberge *[[Lieux/Phandalin/Bâtiments/Stonehill Inn]]*. Il a disparu de sa chambre, laissant derrière lui ses affaires (dont le dernier message de [[Personnages/Slither Fleming\|Slither ‘Sancho’ Fleming]] et la clé neuve de [[Personnages/Elmar Barthens\|Balthazar Barthens]]), et son petit doigt gauche tranché. Celui-ci est tâché d’une substance violacée là où il a été sectionné.                                                                                                                                                              |
+| [[Anthologie/Sessions/01\|01]] | Slither a appris par ses contacts que celle connue sous le nom de [[Personnages/L'Enchanteresse]] dans les milieux criminels, a eu des liens avec les *[[Encyclopédie/Organisations/Zhentarim\|Zhentarim]]* et œuvre dans les environs de *[[Lieux/Phandalin/Phandalin]]*.                                                                                                                                                                                                                                                                                                                                                         |
+| [[Anthologie/Sessions/01\|01]] | 'Sancho' Fleming utilise des coursiers pour continuer à déposer des mots à l’attention de Rohan : « *Le serpent murmure, son venin et ton sang dévoilent ses secrets.* »                                                                                                                                                                                                                                                                                                                                                                                                    |
+| [[Anthologie/Sessions/01\|01]] | Après une première rencontre, Rohan et Slither ont convenu d’utiliser la *[[Shrine of Luck]]* pour s’y laisser des messages. Slither a laissé un premier message avec le mot « *Zhentarim* », puis a dû quitter le hameau momentanément de peur de se faire repérer par l’organisation occulte.                                                                                                                                                                                                                                                                             |
+| [[Anthologie/Sessions/01\|01]] | Slither Fleming a pris l'apparence d'un mendiant  près de la *[[Shrine of Luck]]* de *Phandalin* pour surveiller les activités du hameau.                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [[Anthologie/Sessions/01\|01]] | Slither Fleming a appris par [[Personnages/Toblen Stonehill]] la présence de Rohan Donquichotte à *Phandalin* et a souhaité le contacter.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+[^1]
+[^2]
+[^3]
+
+[^1]: ![[Source/Emblèmes, Objets & Indices/Pierres de Lutilda/Pierre 1.png]]
+
+[^2]: ![[Source/Scènes/Scènes passées/Slither Sancho Fleming quête à la Shrine of Luck.png]]
+
+[^3]: ![[Source/Scènes/Scènes passées/Le groupe rencontre Slither Sancho Fleming 2.png]]
